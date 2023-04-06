@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Li Shiqing"
+title                    : "Shiqing Li"
 title_separator          : "-"
-name                     : &name "Li Shiqing"
-description              : &description "Ph. D. Candidate in Nanyang Technological University"
+name                     : &name "Shiqing Li"
+description              : &description "Ph. D. Candidate, School of Computer Science and Engineering, Nanyang Technological University"
 url                      : https://lsq314.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lsq314/lsq314.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Shiqing Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph. D. Candidate, School of Computer Science and Engineering, Nanyang Technological University"
+  location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=LiO9y6EAAAAJ&hl=zh-CN"
+  email            : "shiqing.li@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6875-5691"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -255,20 +255,20 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
