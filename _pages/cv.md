@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Please find the [CV](files/Phd_CV.pdf)
