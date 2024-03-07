@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the school of Computer Science and Engineering, Nanyang Technological University, under the supervision of Professor Weichen Liu.
+I obtain my Ph.D. degree from the school of Computer Science and Engineering, Nanyang Technological University in 2023, under the supervision of Professor Weichen Liu.
 I received my Bachelor’s and Master's degree from Shandong University, China in 2016 and 2019.
 
 My research mainly focuses accelerating sparse matrix operations on FPGAs.
